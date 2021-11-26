@@ -18,7 +18,7 @@
   "dependencies": {
     "es6-templates": "^0.2.3",
     "fastparse": "^1.1.1",
-    "html-minifier": "^3.5.8",
+    "html-minifier": "https://github.com/kangax/html-minifier",
     "loader-utils": "^1.1.0",
     "object-assign": "^4.1.1"
   },
